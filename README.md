@@ -16,4 +16,9 @@ Simultaneous localization and mapping using RPLIDAR connected to raspbeery pi wi
 4. Run roslaunch hector_slam_launch tutorial.launch  
   
   
-The Map should start build on Rviz on your screen
+The Map should start build on Rviz on your screen  
+  
+  
+  
+## How to enabel swap in ubuntu 16.04:  
+https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-16-04
