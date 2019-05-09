@@ -20,5 +20,5 @@ The Map should start build on Rviz on your screen
   
   
   
-## How to enabel swap in ubuntu 16.04:  
+## How to enable swap in ubuntu 16.04:  
 https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-16-04
